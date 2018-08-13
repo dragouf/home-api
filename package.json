@@ -1,6 +1,6 @@
 {
   "name": "homeapi",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "rest for home automation",
   "author": {
     "name": "David",
@@ -15,7 +15,7 @@
     "ws": "^4.1.0"
   },
   "devDependencies": {
-    "jasmine-node": "*"
+    "jasmine-node": "^1.15.0"
   },
   "scripts": {
     "start": "node ./index.js",
