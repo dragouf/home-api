@@ -12,6 +12,7 @@ quick start
 ===========
 
 ```sh
+$ mv config/default.example.js config/default.js
 $ vi config/default.js
 ```
 
