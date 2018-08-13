@@ -1,7 +1,7 @@
 Home Api
 =========
 
-some simple command to send to your home automation.
+some simple commands to send to your home automation.
 All IR commands are sent by MQTT to a tasmota device with IR led.
 
 TV and SFR use IP network, all other are IR commands.
